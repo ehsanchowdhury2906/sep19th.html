@@ -3,9 +3,9 @@ body {
 }
 div {
     float: left;
-    background-color: skyblue;
+    background-color: rebeccapurple;
     text-align: center;
-    border: 5px solid black;
+    border: 5px solid goldenrod;
     border-radius: 10px;
     width: 40%;
     margin-left: 7%;
